@@ -1,5 +1,5 @@
 # SpaceInvaders-with-DQN<br>
-Hi, this is the COMP219-Ass2-Task2. DQN and CNN algorithm.
+Hi, this is the extra part of COMP219-Ass2-Task2. DQN and CNN algorithm.
 
 This program run the game from OpenAI gym and in the environment of OpenAI universe. 
 
