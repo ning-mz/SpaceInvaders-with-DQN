@@ -2,8 +2,6 @@
  -------------------------
  COMP219-Ass2-Task2
  DQN for OpanAI video game
- Name: Maizhen Ning
- ID: 201376369
  Date: 6-Jan-2019
  -------------------------
 '''
